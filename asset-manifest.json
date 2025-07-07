@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-stock-bot/static/css/main.e6c13ad2.css",
-    "main.js": "/my-stock-bot/static/js/main.99896a5a.js",
-    "static/js/453.7acc917a.chunk.js": "/my-stock-bot/static/js/453.7acc917a.chunk.js",
-    "index.html": "/my-stock-bot/index.html",
-    "main.e6c13ad2.css.map": "/my-stock-bot/static/css/main.e6c13ad2.css.map",
-    "main.99896a5a.js.map": "/my-stock-bot/static/js/main.99896a5a.js.map",
-    "453.7acc917a.chunk.js.map": "/my-stock-bot/static/js/453.7acc917a.chunk.js.map"
+    "main.css": "/RocketStock-Bot-/static/css/main.e6c13ad2.css",
+    "main.js": "/RocketStock-Bot-/static/js/main.bd9b91c0.js",
+    "static/js/453.7acc917a.chunk.js": "/RocketStock-Bot-/static/js/453.7acc917a.chunk.js",
+    "index.html": "/RocketStock-Bot-/index.html",
+    "main.e6c13ad2.css.map": "/RocketStock-Bot-/static/css/main.e6c13ad2.css.map",
+    "main.bd9b91c0.js.map": "/RocketStock-Bot-/static/js/main.bd9b91c0.js.map",
+    "453.7acc917a.chunk.js.map": "/RocketStock-Bot-/static/js/453.7acc917a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.99896a5a.js"
+    "static/js/main.bd9b91c0.js"
   ]
 }
