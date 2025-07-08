@@ -49,7 +49,7 @@ Data:
 
     try {
       const response = await axios.post(
-        "http://localhost:3001/api/analyze-stocks",
+        "https://stock-rocket-server.onrender.com/api/analyze-stocks",
         {
           searchParams: {
             keywords: keywords?.split(", ")?.join(" OR "),

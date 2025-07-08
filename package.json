@@ -1,7 +1,7 @@
 {
   "name": "stock-recommender",
   "version": "0.1.0",
-  "homepage": "https://seanazu.github.io/my-stock-bot",
+  "homepage": "https://seanazu.github.io/RocketStock-Bot-",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
